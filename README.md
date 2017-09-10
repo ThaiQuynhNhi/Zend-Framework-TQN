@@ -2,7 +2,6 @@
 
 # Nội dung:
 
-Một số chức năng của thanh công cụ.
 
 Bài 01: Cấu trúc các thư mục và chỉnh sửa Module
 
