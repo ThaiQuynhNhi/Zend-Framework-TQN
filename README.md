@@ -1,5 +1,3 @@
-# Zend Framework
-
 # Nội dung:
 
 
