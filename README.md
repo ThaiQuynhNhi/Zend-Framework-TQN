@@ -13,3 +13,7 @@ Bài 05: Cấu hình file INI
 
 Bài 06: Cấu hình file XML
 
+Bài 07: Luồng cấu hình
+
+Bài 08: Autoloader
+
